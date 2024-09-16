@@ -1,0 +1,25 @@
+function HomePageLoops() {
+  const names = ['Ada Lovelace', 'Grace Hopper', 'Margaret Hamilton'];
+  
+  return (
+    <div>
+      <Header title="Develop. Preview. Ship." />
+      <ul>
+        {names.map((name) => (
+          <li key={name}>{name}</li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+function old_old_Header(props) {
+  return <h1>{props.title}</h1>;
+}
+function old_HomePage() {
+  return (
+    <div>
+      <Header title="React" />
+      <Header title="A new title" />
+    </div>
+  );
+}
