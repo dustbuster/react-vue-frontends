@@ -3,46 +3,46 @@
         <ul>
             <li>
                 <p>About Us</p>
-                <a href="https://www.pinkbike.com/about/">Contacts</a>
-                <a href="https://www.pinkbike.com/about/faq/">FAQ</a>
+                <a href="https://www.example.com/about/">Contacts</a>
+                <a href="https://www.example.com/about/faq/">FAQ</a>
                 <a href="https://www.outsideinc.com/terms-of-use/">Terms of Use</a>
                 <a href="https://www.outsideinc.com/privacy-policy/">Privacy Policy</a>
-                <a href="https://www.pinkbike.com/about/whyjoin/">Sign Up!</a>
-                <a href="https://www.pinkbike.com/about/sitemap/">Sitemap</a>
+                <a href="https://www.example.com/about/whyjoin/">Sign Up!</a>
+                <a href="https://www.example.com/about/sitemap/">Sitemap</a>
             </li>
             <li>
                 <p>Advertise</p>
-                <a href="https://www.pinkbike.com/about/advertising/">Advertising</a>
+                <a href="https://www.example.com/about/advertising/">Advertising</a>
             </li>
             <li>
                 <p>Cool Features</p>
-                <a href="https://www.pinkbike.com/news/pinkbike-content-submission-guide.html">Submit a Story</a>
-                            <a href="https://www.pinkbike.com/product/">Product</a>
-                <a href="https://www.pinkbike.com/photo/" class="mobile-only">Photos</a>
-                <a href="https://www.pinkbike.com/video/" class="mobile-only">Videos</a>
+                <a href="https://www.example.com/news/example-content-submission-guide.html">Submit a Story</a>
+                            <a href="https://www.example.com/product/">Product</a>
+                <a href="https://www.example.com/photo/" class="mobile-only">Photos</a>
+                <a href="https://www.example.com/video/" class="mobile-only">Videos</a>
                 <a href="https://privacy-central.securiti.ai/#/dsr/c557911e-2597-486a-81b0-7bd99991c2e1" target="_blank" id="privacyRequest" class="none">Privacy Request</a>
                 <span href="#" class="cmp-revoke-consent clickable">Manage Cookie Preferences</span>
             </li>
             <li>
                 <p>RSS</p>
-                <a href="https://www.pinkbike.com/pinkbike_xml_feed.php">Pinkbike RSS</a>
-                <a href="https://twitter.com/pinkbike">Pinkbike Twitter</a>
-                <a href="https://www.facebook.com/pinkbikecom">Pinkbike Facebook</a>
-                <a href="https://www.youtube.com/pinkbike">Pinkbike Youtube</a>
-                <a href="https://www.instagram.com/pinkbike">Pinkbike Instagram</a>
+                <a href="https://www.example.com/example_xml_feed.php">example RSS</a>
+                <a href="https://twitter.com/example">example Twitter</a>
+                <a href="https://www.facebook.com/examplecom">example Facebook</a>
+                <a href="https://www.youtube.com/example">example Youtube</a>
+                <a href="https://www.instagram.com/example">example Instagram</a>
                 <br>
-                <a href="https://mailchi.mp/pinkbike.com/pinkbike-newsletter" target="_blank" data-analytics-event="click" data-analytics-data='{"name": "Element Clicked", "props": { "domain": "Pinkbike", "name": "newsletter_signup", "source": "footer"}}'>Newsletter Signup</a>
+                <a href="https://mailchi.mp/example.com/example-newsletter" target="_blank" data-analytics-event="click" data-analytics-data='{"name": "Element Clicked", "props": { "domain": "example", "name": "newsletter_signup", "source": "footer"}}'>Newsletter Signup</a>
             </li>
         </ul>
         <div class="centertext">
-            <!--<a href="https://www.pinkbike.com/about/newsletter/" class="pb-button red large" style="display: inline-block">Newsletter Signup</a><br>-->
+            <!--<a href="https://www.example.com/about/newsletter/" class="pb-button red large" style="display: inline-block">Newsletter Signup</a><br>-->
             <br><br>
-            <b>Copyright &copy; 2000 - 2024. Pinkbike.com. All rights reserved.</b>
+            <b>Copyright &copy; 2000 - 2024. example.com All rights reserved.</b>
             <br>
             <b>dv65 0.014383</b>
         </div>
             <div style="background: #000; padding: 20px; text-align: center;">
-            <a href="https://www.pinkbike.com/mobile/redirect/?type=2&redirect=https://m.pinkbike.com/" data-analytics-event="click" data-analytics-data='{"name": "Element Clicked", "props": { "domain": "Pinkbike", "name": "desktop-mobile-switch", "type": "link"}}'>Mobile Version of Website</a>
+            <a href="https://www.example.com/mobile/redirect/?type=2&redirect=https://m.example.com/" data-analytics-event="click" data-analytics-data='{"name": "Element Clicked", "props": { "domain": "example", "name": "desktop-mobile-switch", "type": "link"}}'>Mobile Version of Website</a>
         </div>
 </div>
 </template>

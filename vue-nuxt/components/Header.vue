@@ -15,14 +15,15 @@
         </div>
       </div>
       <div class="center-column">
-        <a href="https://www.pinkbike.com/" id="pblogo"><span>Pinkbike.com</span></a>
-        <div id="poweredby">Powered by <b>Outside</b></div>
+        <div id="poweredby">Powered by <b>Vue and Laravel</b></div>
+        <div id="poweredby">Also, I stole this header and footer from another website, so pardon any jenk</div>
+
       </div>
       <div class="right-column">
         <div class="right-content">
           <ul id="login" class="f12 bold">
-            <li><a href="https://www.pinkbike.com/user/login/"><span>Log in</span></a></li>
-            <li class="mobile-hide"><a href="https://www.pinkbike.com/user/signup/"><span>Register <span class="mobile-hide">New User</span></span></a></li>
+            <li><a href="https://www.example.com/user/login/"><span>Log in</span></a></li>
+            <li class="mobile-hide"><a href="https://www.example.com/user/signup/"><span>Register <span class="mobile-hide">New User</span></span></a></li>
           </ul>
         </div>
       </div>

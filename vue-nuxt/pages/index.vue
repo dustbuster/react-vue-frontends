@@ -2,7 +2,7 @@
   <v-app>
     <v-main>
       <v-container>
-        <h1>Welcome to Pinkbike!</h1>
+        <h1>Welcome to dustin's play ground!</h1>
       </v-container>
     </v-main>
   </v-app>
